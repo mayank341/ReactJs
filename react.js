@@ -33,6 +33,13 @@
 // babel.
 // html tags are rendered directly inside into JSON,this approach make js Faster,
 
+// component is just like a function ,reusabale ,
+
+
+// understanding our app:
+// src folder:
+// app.css,
+// app.jsx,
 
 
 
